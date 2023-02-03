@@ -1,2 +1,2 @@
-# Hamibot_Alipay
-Hamibot
+# Hamibot_KuaiShouJiSuBan
+Hamibot 快手极速版
